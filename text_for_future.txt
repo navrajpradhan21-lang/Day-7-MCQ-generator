@@ -1,0 +1,3 @@
+conda create -p env python=(version)
+
+conda activate "D:\LANGCHAIN\Day-7 MCQ generator\env"
