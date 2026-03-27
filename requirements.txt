@@ -1,0 +1,18 @@
+#Groq
+langchain-groq
+groq
+
+
+# Gemini
+langchain-google-genai
+google-generativeai
+
+
+langchain
+langchain-community
+streamlit
+python-dotenv
+PyPDF2
+
+
+-e .
