@@ -7,6 +7,8 @@ groq
 langchain-google-genai
 google-generativeai
 
+#Groq
+langchain-groq
 
 langchain
 langchain-community
@@ -14,5 +16,5 @@ streamlit
 python-dotenv
 PyPDF2
 ipykernel
-
+pandas
 -e .
