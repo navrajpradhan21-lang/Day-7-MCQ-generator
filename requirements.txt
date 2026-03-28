@@ -13,6 +13,6 @@ langchain-community
 streamlit
 python-dotenv
 PyPDF2
-
+ipykernel
 
 -e .
